@@ -38,19 +38,14 @@ Avaliação dos Usuários da Steam
 🚀 Como Executar o Projeto
 1- Clone o repositório ou baixe os arquivos:
 
-bash
 pip install pandas streamlit plotly
 
 2- Instale as dependências:
 
-
-bash
 pip install pandas streamlit plotly
 
 3- Execute o dashboard:
 
-
-bash
 streamlit run dashboard.py
 
 
